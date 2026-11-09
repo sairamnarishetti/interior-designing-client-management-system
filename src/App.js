@@ -39,8 +39,6 @@ import Messaging from './components/admin/Messaging';
 import TeamManagement from './components/admin/TeamManagement';
 import VendorManagement from './components/admin/VendorManagement';
 import Billing from './components/admin/Billing';
-import AdminProfile from './components/admin/Profile';
-import AdminSettings from './components/admin/Settings';
 
 // Scroll to top on route change
 const ScrollToTop = () => {
