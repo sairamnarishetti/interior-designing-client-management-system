@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/interior-designing-client-management-system/static/css/main.15d74006.css",
+    "main.js": "/interior-designing-client-management-system/static/js/main.c3d22eb5.js",
+    "index.html": "/interior-designing-client-management-system/index.html",
+    "main.15d74006.css.map": "/interior-designing-client-management-system/static/css/main.15d74006.css.map",
+    "main.c3d22eb5.js.map": "/interior-designing-client-management-system/static/js/main.c3d22eb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15d74006.css",
+    "static/js/main.c3d22eb5.js"
+  ]
+}
